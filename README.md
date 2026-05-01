@@ -77,7 +77,7 @@
 
 ```bash
 # clone المشروع
-git clone https://github.com/your-username/cashbridge.git
+git clone https://github.com/abdulwadoud/CashBridge_App
 
 # ادخل للمجلد
 cd cashbridge
@@ -132,14 +132,6 @@ npx live-server
 - [ ] ربط Stripe + Wise
 - [ ] تطبيق موبايل (React Native)
 - [ ] توسع للسعودية والإمارات
-
----
-
-## 👥 الفريق
-
-| الاسم | الدور | الموقع |
-|---|---|---|
-| خالد | مؤسس + مطور | فلسطين 🇵🇸 |
 
 ---
 
